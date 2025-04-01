@@ -39,24 +39,3 @@ int main() {
 		cout << "O novo salario do funcionario" << nome <<" e :" << novo_sal;	
 	}
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
